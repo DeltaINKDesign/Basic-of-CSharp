@@ -1,0 +1,6 @@
+C:\Users\Iza\Desktop\Date Time\Date Time\bin\Debug\Date Time.exe.config
+C:\Users\Iza\Desktop\Date Time\Date Time\bin\Debug\Date Time.exe
+C:\Users\Iza\Desktop\Date Time\Date Time\bin\Debug\Date Time.pdb
+C:\Users\Iza\Desktop\Date Time\Date Time\obj\Debug\Date Time.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\Date Time\Date Time\obj\Debug\Date Time.exe
+C:\Users\Iza\Desktop\Date Time\Date Time\obj\Debug\Date Time.pdb
