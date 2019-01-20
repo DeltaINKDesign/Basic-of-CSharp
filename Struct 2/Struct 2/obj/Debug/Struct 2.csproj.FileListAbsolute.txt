@@ -1,0 +1,6 @@
+C:\Users\Iza\source\repos\Struct 2\Struct 2\bin\Debug\Struct 2.exe.config
+C:\Users\Iza\source\repos\Struct 2\Struct 2\bin\Debug\Struct 2.exe
+C:\Users\Iza\source\repos\Struct 2\Struct 2\bin\Debug\Struct 2.pdb
+C:\Users\Iza\source\repos\Struct 2\Struct 2\obj\Debug\Struct 2.csproj.CoreCompileInputs.cache
+C:\Users\Iza\source\repos\Struct 2\Struct 2\obj\Debug\Struct 2.exe
+C:\Users\Iza\source\repos\Struct 2\Struct 2\obj\Debug\Struct 2.pdb
