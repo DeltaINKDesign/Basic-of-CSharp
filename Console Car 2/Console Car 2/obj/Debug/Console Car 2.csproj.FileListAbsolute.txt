@@ -1,0 +1,7 @@
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\bin\Debug\Console Car 2.exe.config
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\bin\Debug\Console Car 2.exe
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\bin\Debug\Console Car 2.pdb
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\obj\Debug\Console Car 2.csprojAssemblyReference.cache
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\obj\Debug\Console Car 2.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\obj\Debug\Console Car 2.exe
+C:\Users\Iza\Desktop\Console Car 2\Console Car 2\obj\Debug\Console Car 2.pdb

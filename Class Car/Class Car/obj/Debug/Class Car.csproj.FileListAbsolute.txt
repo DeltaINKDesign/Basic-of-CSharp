@@ -1,0 +1,7 @@
+C:\Users\Iza\Desktop\Class Car\Class Car\obj\Debug\Class Car.csprojAssemblyReference.cache
+C:\Users\Iza\Desktop\Class Car\Class Car\obj\Debug\Class Car.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\Class Car\Class Car\bin\Debug\Class Car.exe.config
+C:\Users\Iza\Desktop\Class Car\Class Car\bin\Debug\Class Car.exe
+C:\Users\Iza\Desktop\Class Car\Class Car\bin\Debug\Class Car.pdb
+C:\Users\Iza\Desktop\Class Car\Class Car\obj\Debug\Class Car.exe
+C:\Users\Iza\Desktop\Class Car\Class Car\obj\Debug\Class Car.pdb

@@ -1,0 +1,7 @@
+C:\Users\Iza\Desktop\Tuning\Tuning\bin\Debug\Tuning.exe.config
+C:\Users\Iza\Desktop\Tuning\Tuning\bin\Debug\Tuning.exe
+C:\Users\Iza\Desktop\Tuning\Tuning\bin\Debug\Tuning.pdb
+C:\Users\Iza\Desktop\Tuning\Tuning\obj\Debug\Tuning.csprojAssemblyReference.cache
+C:\Users\Iza\Desktop\Tuning\Tuning\obj\Debug\Tuning.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\Tuning\Tuning\obj\Debug\Tuning.exe
+C:\Users\Iza\Desktop\Tuning\Tuning\obj\Debug\Tuning.pdb
