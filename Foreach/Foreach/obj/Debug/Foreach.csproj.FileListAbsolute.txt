@@ -1,0 +1,7 @@
+C:\Users\Iza\Desktop\Foreach\Foreach\obj\Debug\Foreach.csprojAssemblyReference.cache
+C:\Users\Iza\Desktop\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Iza\Desktop\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\Iza\Desktop\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Iza\Desktop\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\Iza\Desktop\Foreach\Foreach\obj\Debug\Foreach.pdb
