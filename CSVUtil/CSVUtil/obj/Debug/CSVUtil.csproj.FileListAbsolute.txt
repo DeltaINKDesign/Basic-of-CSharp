@@ -1,0 +1,7 @@
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\bin\Debug\CSVUtil.exe.config
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\bin\Debug\CSVUtil.exe
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\bin\Debug\CSVUtil.pdb
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\obj\Debug\CSVUtil.csprojAssemblyReference.cache
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\obj\Debug\CSVUtil.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\obj\Debug\CSVUtil.exe
+C:\Users\Iza\Desktop\CSVUtil\CSVUtil\obj\Debug\CSVUtil.pdb
