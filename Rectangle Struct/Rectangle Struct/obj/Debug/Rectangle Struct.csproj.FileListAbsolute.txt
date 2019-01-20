@@ -1,0 +1,7 @@
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\bin\Debug\Rectangle Struct.exe.config
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\bin\Debug\Rectangle Struct.exe
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\bin\Debug\Rectangle Struct.pdb
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\obj\Debug\Rectangle Struct.csprojAssemblyReference.cache
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\obj\Debug\Rectangle Struct.csproj.CoreCompileInputs.cache
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\obj\Debug\Rectangle Struct.exe
+C:\Users\Iza\source\repos\Rectangle Struct\Rectangle Struct\obj\Debug\Rectangle Struct.pdb
