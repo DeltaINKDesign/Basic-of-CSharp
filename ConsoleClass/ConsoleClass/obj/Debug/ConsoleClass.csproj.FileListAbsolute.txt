@@ -1,0 +1,7 @@
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\bin\Debug\ConsoleClass.exe.config
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\bin\Debug\ConsoleClass.exe
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\bin\Debug\ConsoleClass.pdb
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\obj\Debug\ConsoleClass.csprojAssemblyReference.cache
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\obj\Debug\ConsoleClass.csproj.CoreCompileInputs.cache
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\obj\Debug\ConsoleClass.exe
+C:\Users\Iza\source\repos\ConsoleClass\ConsoleClass\obj\Debug\ConsoleClass.pdb
