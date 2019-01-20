@@ -1,0 +1,6 @@
+C:\Users\Iza\Desktop\ArrayUtil\ArrayUtil\bin\Debug\ArrayUtil.exe.config
+C:\Users\Iza\Desktop\ArrayUtil\ArrayUtil\bin\Debug\ArrayUtil.exe
+C:\Users\Iza\Desktop\ArrayUtil\ArrayUtil\bin\Debug\ArrayUtil.pdb
+C:\Users\Iza\Desktop\ArrayUtil\ArrayUtil\obj\Debug\ArrayUtil.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\ArrayUtil\ArrayUtil\obj\Debug\ArrayUtil.exe
+C:\Users\Iza\Desktop\ArrayUtil\ArrayUtil\obj\Debug\ArrayUtil.pdb
