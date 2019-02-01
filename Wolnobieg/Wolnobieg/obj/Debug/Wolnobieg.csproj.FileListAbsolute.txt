@@ -1,0 +1,7 @@
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\bin\Debug\Wolnobieg.exe.config
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\bin\Debug\Wolnobieg.exe
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\bin\Debug\Wolnobieg.pdb
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\obj\Debug\Wolnobieg.csprojAssemblyReference.cache
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\obj\Debug\Wolnobieg.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\obj\Debug\Wolnobieg.exe
+C:\Users\Iza\Documents\GitHub\Basic-of-CSharp\Wolnobieg\Wolnobieg\obj\Debug\Wolnobieg.pdb
